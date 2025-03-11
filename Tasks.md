@@ -1,0 +1,10 @@
+- [ ] finish semestr4
+- IPP
+	- [ ] Create xml parser for first part of IPP project 🆔 kzdset 🔺 ➕ 2025-03-11 🛫 2025-03-11 📅 2025-03-11
+	- [ ] Finish semantic checks in parse.py for IPP proj1 🆔 5ftl2w ⛔ kzdset 🔼 ➕ 2025-03-11 🛫 2025-03-12 📅 2025-03-13
+	- [ ] submit ipp project 🆔 vxw50t ⛔ dk383b ➕ 2025-03-11 📅 2025-03-18
+	- [ ] Try and implement syntax analysis for IPP project1 🆔 dk383b ⛔ 5ftl2w ➕ 2025-03-11 📅 2025-03-16
+- IPK
+	- [ ] Ipk project1 omega. Try and fix mine project. If not doable, start from scratch, make it nicely object oriented 🔼 ➕ 2025-03-11 📅 2025-03-23
+- IZG
+	- [ ] Prep for IZG mid-term 🆔 goa9eo 🔼 ➕ 2025-03-11 📅 2025-03-18
